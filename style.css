@@ -1,0 +1,96 @@
+body{
+  background-image: url("background2.png");
+  background-size: cover;
+  text-align: center;
+  margin-left: 6%;
+  margin-right: 6%;
+  font-size: 18px;
+  font-family: lustria;
+}
+h1{
+  margin-left: 4.1%;
+  margin-right: 4.1%;
+  font-size: 36px;
+}
+h2{
+  font-size: 25px;
+}
+p{
+  font-size: 25px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+button {
+  position: absolute;
+  text-align: center;
+  background-color: #cbbfb4;
+  border: 2px solid #d0baaa;
+  color: white;
+  padding: 0px 0px;
+  width: 20%;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+
+}
+
+button:hover {
+  background-color: #927f78; /* Green */
+  color: white;
+}
+.button1{
+  padding: 9px 32px;
+  width: 46%;
+  font-size: 16px;
+  margin-left: -45%;
+}
+
+.button2{
+  padding: 9px 32px;
+  width: 46%;
+  font-size: 16px;
+  margin-left: -1%;
+}
+
+.button3{
+  width: 10%;
+  font-size: 16px;
+  margin-left: 30%;
+  padding: 0px 0px;
+  margin-top: -5%;
+}
+.newButton{
+  width: 10%;
+  font-size: 16px;
+  margin-left: 30%;
+  padding: 0px 0px;
+  margin-top: -5%;
+}
+
+input[type="file"] {
+  position: absolute;
+  text-align: left;
+  background-color: #cbbfb4;
+  border: 2px solid #d0baaa;
+  color: white;
+  padding: 0px 0px;
+  width: 20%;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+
+}
+
+
+table{
+  border: 1px solid black;
+  width: 75%;
+}
+
+th{
+  border: 1px solid black;
+}
+
+td{
+  border: 1px solid black;
+}
